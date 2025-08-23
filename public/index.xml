@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on </description>
+    <title>Began&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Began&#39;s Blog</description>
     <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <language>it-it</language>
+    <lastBuildDate>Sat, 23 Aug 2025 09:45:24 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mia Moglie&lt;3&lt;3&lt;3</title>
+      <link>http://localhost:1313/posts/mia-moglie/</link>
+      <pubDate>Sat, 23 Aug 2025 09:45:24 +1000</pubDate>
+      <guid>http://localhost:1313/posts/mia-moglie/</guid>
+      <description>&lt;p&gt;Sta facendo molto discutere il caso del gruppo Facebook “Mia Moglie❤️❤️❤️”, dove uomini sposati pubblicano foto delle proprie mogli, quasi sempre ignare e senza alcun consenso.&lt;/p&gt;&#xA;&lt;p&gt;Da uomo che fin da giovane è stato “invitato” a partecipare a dinamiche simili – come la maggior parte degli uomini della mia età – posso dire che il problema è radicato in profondità nell’educazione italiana.&lt;/p&gt;&#xA;&lt;p&gt;Alle superiori tutt&lt;em&gt;sapevano cos’era la Bibbia 2.0. Nessuno ammetteva apertamente di averla vista, ma ci si vantava di averne accesso. Io stesso, a 14 anni, ricevetti un link. Mentirei se dicessi che non ci ho cliccato per curiosità: lo feci, ma chiusi subito per paura della legge e di essere “beccato”, non per reale consapevolezza della gravità di ciò che stavo guardando. Non sapevo neanche cosa fosse il revenge porn. A quell’età io – come tutt&lt;/em&gt; gli/le adolescenti – avrei dovuto ricevere un’educazione chiara e solida sul tema. Invece era totalmente assente.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
